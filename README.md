@@ -1,1 +1,1 @@
-# Loan-prediction-analysis
+# Loan Prediction Project
